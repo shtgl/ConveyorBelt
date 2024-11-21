@@ -1,9 +1,13 @@
+https://github.com/user-attachments/assets/84cb0125-9044-441e-a25f-d991517226ef
+
 ## Problem Statement 
 Develop a system to depict either 2D graphics or 3D graphics using Blender or other C/C++ graphics libraries.
 
 ## Software Requirements: 
 Desktop: Windows 10 or Windows 11
-Processor: Intel core i5 - 11300H clocked at 3.10 GHz
+Processor: Intel core i5 - 11300H clocked at 3.1
+
+0 GHz
 Ram: 16 GB 
 
 ## Methodology:
